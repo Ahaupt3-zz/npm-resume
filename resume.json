@@ -1,14 +1,24 @@
 {
   "Education": [
-    "Failed Highschool",
-    "Failed College",
-    "Good at singing Baby Shark!"
+    "High School | Whitney high School - Rocklin, CA - Graduated Dec. '11",
+    "College | Colorado Technical University - Bachelor's Degree in Cyber Security - In Progress",
+    "Certifications | CompTIA A+"
   ],
   "Past Experience": [
-    "I choreographed this video :- https://www.youtube.com/watch?v=XqZsoesa55w ",
-    "i'm kidding"
+    "Redtail Technology | June '17 - Present"
   ],
-  "Tech Stack": ["Baby_Shark.py", "mommyShark.js", "daddy-shark.css"],
-  "Projects": ["None"],
-  "Contact": ["babyshark@dodododo.com"]
+  "Tech Stack": [
+    "Back-End | NodeJS, Rails", 
+    "Front-End | VueJS", 
+    "Database | MySQL, PostgreSQL, MongoDB, Firestore"
+  ],
+  "Projects": [
+    "rails-sample | https://github.com/Ahaupt3/rails-sample"
+  ],
+  "My Contact Info": [
+    "Phone | (916) 990-5533", 
+    "Email | alexhaupt3@gmail.com", 
+    "Github | https://github.com/Ahaupt3",
+    "LinkedIn | https://linkedin.com/Alex-Haupt"
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "name": "silentlad",
-  "version": "2.0.0",
-  "description": "",
+  "name": "alex-haupt-resume",
+  "version": "1.0.0",
+  "description": "my personal resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,19 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silent-lad/silentlad.git"
+    "url": "git+https://github.com/Ahaupt3/npm-resume.git"
   },
   "keywords": [
-    "resume",
-    "babyShark"
+    "resume"
   ],
-  "author": "silentlad",
+  "author": "Alex Haupt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silent-lad/silentlad/issues"
+    "url": "https://github.com/Ahaupt3/alex-haupt-resume/issues"
   },
-  "homepage": "https://github.com/silent-lad/silentlad#readme",
+  "homepage": "https://github.com/Ahaupt3/alex-haupt-resume#readme",
   "bin": {
-    "silentlad": "./index.js"
+    "alex-haupt-resume": "./index.js"
   }
 }

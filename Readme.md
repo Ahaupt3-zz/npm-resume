@@ -1,9 +1,8 @@
-# SilentLad
+# Alex Haupt
 
-This is my resume..Please don't read it.
+This is my resume...
 
 ## Installation
 
-- Run `npm i --global silentlad`.
-- Then in terminal run `silentlad`.
-- Baby Shark todo dodo dodo.
+- Run `npm i --global alex-haupt-resume`.
+- Then in terminal run `alex-haupt-resume`.
