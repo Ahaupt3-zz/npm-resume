@@ -26,7 +26,7 @@ function resumeHandler() {
       return;
     }
     var option = answer.resumeOptions;
-    console.log(response("--------------------------------------"));
+    console.log(response("---------------------------------------------"));
     resume[`${option}`].forEach(info => {
       console.log(response("|   => " + info));
     });

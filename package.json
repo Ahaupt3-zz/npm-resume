@@ -20,9 +20,9 @@
   "author": "Alex Haupt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ahaupt3/alex-haupt-resume/issues"
+    "url": "https://github.com/Ahaupt3/npm-resume/issues"
   },
-  "homepage": "https://github.com/Ahaupt3/alex-haupt-resume#readme",
+  "homepage": "https://github.com/Ahaupt3/npm-resume#readme",
   "bin": {
     "alex-haupt-resume": "./index.js"
   }
